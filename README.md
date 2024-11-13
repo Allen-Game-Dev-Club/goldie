@@ -36,11 +36,13 @@ https://git-scm.com/downloads
     git commit -m "whatever message"
     ```
   - Git push:
+
     If you do not have the repository as upstream, then do:
     ```
     git push -u origin main
     ```
     (Most tutorials say to use the master branch but that's been phased out and only some older repositories have it)
+    
     Else:
     ```
     git push
